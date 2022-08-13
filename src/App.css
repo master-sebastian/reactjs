@@ -152,13 +152,13 @@ hr {
   opacity: .25
 }
 
-@media (max-width:600px) {
-  .super-img {
-      width: 60%
-  }
-}
 @media (max-width:2000px) {
   .super-img {
     width: 23%
+  }
+}
+@media (max-width:600px) {
+  .super-img {
+      width: 60%
   }
 }
