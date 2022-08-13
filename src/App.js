@@ -2,8 +2,6 @@ import {React, useEffect, useState } from 'react';
 
 
 import './App.css';
-import ReactAudioPlayer from 'react-audio-player';
-
 
 function obtenerImagenesAleatorias(){
   const prefix = "./"
